@@ -23,64 +23,64 @@
     },
     "installed_plugins": {
         "cordova-plugin-battery-status": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-media-capture": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-device-motion": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-device-orientation": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-file-transfer": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-globalization": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-vibration": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.phonegap.bluepoint"
+            "PACKAGE_NAME": "xerox"
         }
     },
     "dependent_plugins": {},
